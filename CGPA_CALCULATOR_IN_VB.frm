@@ -1,6 +1,6 @@
 VERSION 5.00
 Begin VB.Form Group 
-   Caption         =   "Group D CGPA CALCULATOR"
+   Caption         =   "Group E CGPA CALCULATOR"
    ClientHeight    =   9210
    ClientLeft      =   120
    ClientTop       =   465
